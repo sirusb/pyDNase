@@ -93,7 +93,7 @@ if __name__ == "__main__":
 	test_bam        = args.reads
 	test_bed        = args.regions
 	genome_sequence = args.genome_sequence
-	genome          = args.genome_size
+	genome          = args.genomesize
 	outfile         = args.output
 	
 	# First, pull all the 6mers surrounding 5' ends
